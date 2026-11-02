@@ -1,0 +1,5 @@
+homepage: "https://octeasy.com"
+documentation: "https://octeasy.com/en/installation"
+versions:
+  - sha: 1ce940a17818194df0689661f6e7a22004670784
+    changeNotes: Initial release.
